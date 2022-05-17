@@ -1,7 +1,9 @@
 describe("Teste assincrônico", () => {
   test("Renderizando componente", async () => {});
 
-  test("Exibir uma lista de usuários", async () => {});
+  test("Testando se o Carregando foi exibido", async () => {});
 
-  test("Exibir cada usuário", async () => {});
+  test("Exibir o @ do usuário", async () => {});
+
+  test("Exibir o nome do usuário", async () => {});
 });
