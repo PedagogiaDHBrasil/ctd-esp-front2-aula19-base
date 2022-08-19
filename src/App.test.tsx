@@ -17,10 +17,10 @@ const fakeUsers = [
 ];
 
 describe("App", () => {
-  describe("Teste assincrônico", () => {
-    test("Renderizando componente", async () => {});
+  describe("Quando o carregamento terminar", () => {
+    test("Não deve mostrar o carregamento", async () => {});
 
-    test("Testando se o Carregando foi exibido", async () => {});
+    test("Deve mostrar o título de Usuários", async () => {});
 
     test("Exibir o @ do usuário", async () => {});
 
